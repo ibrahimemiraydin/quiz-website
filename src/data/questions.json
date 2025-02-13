@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "question": "Counter-Strike: Global Offensive oyununda en yüksek rütbe hangisidir?",
+    "type": "multiple_choice",
+    "options": ["Gold Nova", "Master Guardian", "Legendary Eagle", "Global Elite"],
+    "answer": "Global Elite",
+    "points": 10
+  },
+  {
+    "id": 2,
+    "question": "Minecraft'ta Netherite zırh yapmak için hangi malzeme gereklidir?",
+    "type": "text",
+    "options": [],
+    "answer": "Netherite Ingot",
+    "points": 10
+  },
+  {
+    "id": 3,
+    "question": "Grand Theft Auto V'te üç ana karakterden biri kimdir?",
+    "type": "multiple_choice",
+    "options": ["Niko Bellic", "Carl Johnson", "Michael De Santa", "Tommy Vercetti"],
+    "answer": "Michael De Santa",
+    "points": 10
+  },
+  {
+    "id": 4,
+    "question": "The Witcher 3: Wild Hunt oyununda ana karakterin adı nedir?",
+    "type": "text",
+    "options": [],
+    "answer": "Geralt of Rivia",
+    "points": 10
+  },
+  {
+    "id": 5,
+    "question": "Dark Souls serisinde ünlü 'You Died' ekranında hangi renk kullanılır?",
+    "type": "multiple_choice",
+    "options": ["Mavi", "Yeşil", "Kırmızı", "Sarı"],
+    "answer": "Kırmızı",
+    "points": 5
+  },
+  {
+    "id": 6,
+    "question": "Fortnite hangi yıl piyasaya sürüldü?",
+    "type": "text",
+    "options": [],
+    "answer": "2017",
+    "points": 10
+  },
+  {
+    "id": 7,
+    "question": "Valorant'taki 'Jett' karakteri hangi ülkelidir?",
+    "type": "multiple_choice",
+    "options": ["Japonya", "Güney Kore", "Çin", "Brezilya"],
+    "answer": "Güney Kore",
+    "points": 10
+  },
+  {
+    "id": 8,
+    "question": "Red Dead Redemption 2'nin ana karakterinin tam adı nedir?",
+    "type": "text",
+    "options": [],
+    "answer": "Arthur Morgan",
+    "points": 15
+  },
+  {
+    "id": 9,
+    "question": "Half-Life serisinin ana karakteri kimdir?",
+    "type": "multiple_choice",
+    "options": ["Gordon Freeman", "Alyx Vance", "Adrian Shephard", "Barney Calhoun"],
+    "answer": "Gordon Freeman",
+    "points": 10
+  },
+  {
+    "id": 10,
+    "question": "Overwatch'ta Angela Ziegler'in oyun içindeki adı nedir?",
+    "type": "text",
+    "options": [],
+    "answer": "Mercy",
+    "points": 10
+  },
+  {
+    "id": 11,
+    "question": "Elden Ring'in geliştiricisi hangi oyun stüdyosudur?",
+    "type": "multiple_choice",
+    "options": ["FromSoftware", "CD Projekt Red", "Bethesda", "Ubisoft"],
+    "answer": "FromSoftware",
+    "points": 10
+  },
+  {
+    "id": 12,
+    "question": "Cyberpunk 2077'de Keanu Reeves'in seslendirdiği karakterin adı nedir?",
+    "type": "text",
+    "options": [],
+    "answer": "Johnny Silverhand",
+    "points": 10
+  },
+  {
+    "id": 13,
+    "question": "God of War (2018) oyununda Kratos'un oğlunun adı nedir?",
+    "type": "multiple_choice",
+    "options": ["Atreus", "Thor", "Baldur", "Mimir"],
+    "answer": "Atreus",
+    "points": 10
+  },
+  {
+    "id": 14,
+    "question": "Metal Gear Solid serisinin yaratıcısı kimdir?",
+    "type": "text",
+    "options": [],
+    "answer": "Hideo Kojima",
+    "points": 15
+  },
+  {
+    "id": 15,
+    "question": "BioShock oyununda kullanılan temel güç yeteneklerine ne ad verilir?",
+    "type": "multiple_choice",
+    "options": ["Plasmid", "Perk", "Augmentation", "Mutation"],
+    "answer": "Plasmid",
+    "points": 10
+  },
+  {
+    "id": 16,
+    "question": "Skyrim'de Dragonborn'un ilk öğrenilen Shout'u nedir?",
+    "type": "text",
+    "options": [],
+    "answer": "Unrelenting Force",
+    "points": 10
+  },
+  {
+    "id": 17,
+    "question": "Portal serisinde oyuncuya rehberlik eden yapay zekanın adı nedir?",
+    "type": "multiple_choice",
+    "options": ["Wheatley", "GLaDOS", "Cortana", "HAL 9000"],
+    "answer": "GLaDOS",
+    "points": 10
+  },
+  {
+    "id": 18,
+    "question": "Persona 5 oyunundaki ana karakterin kod adı nedir?",
+    "type": "text",
+    "options": [],
+    "answer": "Joker",
+    "points": 10
+  },
+  {
+    "id": 19,
+    "question": "Doom serisinde ana karakterin lakabı nedir?",
+    "type": "multiple_choice",
+    "options": ["Doom Slayer", "Hellwalker", "Doom Reaper", "Demon Hunter"],
+    "answer": "Doom Slayer",
+    "points": 10
+  },
+  {
+    "id": 20,
+    "question": "The Last of Us Part II oyununda Ellie’nin kız arkadaşının adı nedir?",
+    "type": "text",
+    "options": [],
+    "answer": "Dina",
+    "points": 10
+  }
+]

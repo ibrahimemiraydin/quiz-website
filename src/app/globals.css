@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Modern ve şık scroll bar tasarımı */
+::-webkit-scrollbar {
+    width: 12px;
+    height: 12px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 10px;
+    border: 3px solid #f1f1f1;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  }
+  
+  /* Karanlık tema için scroll bar */
+  .dark ::-webkit-scrollbar-track {
+    background: #2d2d2d; 
+  }
+  
+  .dark ::-webkit-scrollbar-thumb {
+    background: #555;
+    border: 3px solid #2d2d2d;
+  }
+  
+  .dark ::-webkit-scrollbar-thumb:hover {
+    background: #888; 
+  }
+  
