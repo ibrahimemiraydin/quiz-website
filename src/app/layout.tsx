@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Soru-Cevap Yarışması",
-  description: "Soru-Cevap Yarışması",
+  description: "Soru-Cevap Yarışmasına Hoşgeldiniz. Soruları yanıtlayın ve sınavı bitirin. Daha sonra cevaplarınızı kontrol edebilirsiniz.",
 };
 
 export default function RootLayout({
