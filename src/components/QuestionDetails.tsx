@@ -49,7 +49,7 @@ const QuestionDetails: React.FC<QuestionDetailsProps> = ({
                 ? 'bg-red-500 text-white'
                 : 'bg-white text-black dark:bg-gray-800 dark:text-white'
               : isSelected
-              ? 'bg-green-500 text-white'
+              ? 'bg-yellow-300 text-black'
               : 'bg-white text-black dark:bg-gray-800 dark:text-white';
             const borderColor = isSelected ? 'border-4 border-blue-500' : 'border';
 
